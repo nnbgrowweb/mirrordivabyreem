@@ -1,0 +1,312 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+
+/*.container{
+
+	border: solid 1px;
+}*/
+
+
+
+
+	
+	.singupr{
+
+		height: 24px;
+     }
+
+     	.container-fluid {
+
+     		background: #ff33ff;
+			
+		}
+
+
+.imgsize{
+
+	width: 150px;
+	height: 150px;
+}
+
+.textfile{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.textfile h3{
+
+	font-family: Arial;
+
+}
+
+.textfile h3 .conteatnum{
+
+	color: #ff33ff;
+}
+
+
+.basicimg img{
+
+	width: 530px;
+	height: 400px;
+	padding: 50px 0;
+
+
+}
+
+.masterimg img{
+	
+	width: 530px;
+	height: 400px;
+	padding: 50px 0;
+
+
+
+}
+
+.maincard :hover{
+
+background: #000;
+color: #fff;
+}
+
+.dropdown-menu:hover{
+	background: #000;
+color: #fff;
+
+
+}
+
+.card-deck{
+
+	padding: 50px 0;
+}
+
+.buttonce{
+	text-align: center;
+
+}
+
+.videocon{
+	padding-top:30px;
+
+}
+
+.create{
+	color:#ffff1a;
+	padding-top: 200px;
+	font-family: times;
+	padding-right: 20px;
+	text-align: center;
+
+}
+
+.forbgm{
+	background: url(img/asa.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	
+	padding: 200px 0px;
+	
+}
+
+.contact-form{
+
+	background:rgba(0,0,0,.6);
+	color: #fff;
+	padding: 40px;
+  
+	box-shadow:0px 0px 10px 3px gray;
+
+}
+
+.dropmassage{
+
+	margin-bottom: 20px;
+	color: tomato;
+}
+
+.moonimg1{
+
+	
+	background: url(img/too.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	height: 600px;
+}
+
+.moonimg2{
+
+	
+	background: url(img/aaa.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	height: 600px;
+}
+
+.midimg{
+
+	margin-top: 70px;
+}
+
+.mission{
+
+		
+	font-family: times;
+	font-weight: 3px; 
+	
+	
+
+
+}
+
+
+
+/*----------------------------------------------------footer-------------------------------*/
+
+marquee{
+	color: #f0f0f5;
+
+}
+
+
+
+.onlinemakeup{
+
+	color: #ff33ff;
+}
+
+.nnb .made {
+	text-decoration: none;
+}
+.made{
+	color: #a3a3c2;
+	
+	text-decoration: none;
+}
+
+
+	
+
+
+
+.made:hover{
+	
+	color: #fff;
+}
+
+
+/*----------------------------------------------------Social-------------------------------*/
+
+
+
+
+
+.icondiform{
+	padding-top: 100px;
+}
+
+.iconsetting a
+{
+	
+	box-shadow:0px 0px 10px 3px gray;
+	width: 50px;
+	height: 50px;
+	background: rgba(0,0,0,.14);
+	line-height: 40px;
+	font-size: 17.5px;
+	border-radius: 50%;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	
+
+	}
+
+
+.iconsetting a i{
+
+
+}
+
+
+.fa-facebook-f{ color: #3b5998; }
+.fa-twitter{color: #55acee;}
+.fa-instagram{color: #dd4b39;}
+.fa-youtube{color: #f21;}
+
+
+
+.iconsetting a .fab{ 
+      
+      position: relative;
+      transition: .5s;
+      z-index: 3;
+
+
+
+ }
+
+.iconsetting a:hover .fab{ 
+	color: #fff;
+      
+     transform: rotate(360deg);
+
+ }
+
+ .iconsetting a:before { 
+      
+     content: "";
+     position: absolute;
+     top: 100%;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     transition: .5s;
+    
+
+ }
+
+  .iconsetting a:hover:before { 
+      
+    top:0;
+
+ }
+
+
+   .iconsetting:nth-child(1) a:before   { 
+
+      
+    background: #dd4b39;
+
+ }
+
+    .iconsetting:nth-child(2) a:before { 
+
+      
+    background: #55acee;
+
+ }
+
+     .iconsetting:nth-child(3) a:before { 
+
+      
+    background: #dd4b39;
+
+ }
+
+      .iconsetting:nth-child(4) a:before { 
+
+      
+    background: #0077B5;
+
+ }
+
+
+
+ /*----------------------------------------------------Social-------------------------------*/
+
